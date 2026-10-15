@@ -14,6 +14,7 @@ public class Person1{
 
 		System.out.println("Name = "+p.name);
 		System.out.println("Age = "+p.age);
+		System.out.println("Hello java");
 	}
 
 }
